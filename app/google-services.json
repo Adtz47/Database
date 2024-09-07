@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452486297578",
+    "project_id": "first-database-project-d7669",
+    "storage_bucket": "first-database-project-d7669.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452486297578:android:fba04098d5897ec7272493",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMYHXgpFlP_D-PS-CxhOQdPkEZtzoByEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
